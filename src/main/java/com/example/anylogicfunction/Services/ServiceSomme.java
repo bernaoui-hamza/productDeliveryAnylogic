@@ -78,6 +78,7 @@ public class ServiceSomme {
         return json;
         //return cities;
     }
+    //chaimaaaaaa
 
     public static List<?> json1ToList(String jsonString, Class<?> classObjec) {
         List<Object> resultList = new ArrayList<>();
